@@ -46,7 +46,5 @@ The single Decision Tree maps out the entire dataset logic cleanly across exactl
 ---
 
 ## Conclusion & Verdict
-* **The Performance Ceiling:**
-- Because the mushroom dataset is entirely deterministic (toxicity follows strict biological rules with zero random noise), both regularized architectures successfully converge at **100.00% accuracy** on unseen data without overfitting.
-* **Final Recommendation:** 
-- For production environments, the **Decision Tree Classifier** stands out as the optimal model choice. It achieves identical performance to the ensemble while running on a single 7-layer layout, requiring less memory, and delivering an exceptionally transparent, step-by-step checklist suitable for immediate deployment.
+* **The Performance Ceiling:**  Because the mushroom dataset is entirely deterministic (toxicity follows strict biological rules with zero random noise), both regularized architectures successfully converge at **100.00% accuracy** on unseen data without overfitting.
+* **Final Recommendation:**  For production environments, the **Decision Tree Classifier** stands out as the optimal model choice. It achieves identical performance to the ensemble while running on a single 7-layer layout, requiring less memory, and delivering an exceptionally transparent, step-by-step checklist suitable for immediate deployment.
